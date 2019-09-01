@@ -577,8 +577,8 @@ MAKEFLAGS=
 # Identity of this package.
 PACKAGE_NAME='tcpdump'
 PACKAGE_TARNAME='tcpdump'
-PACKAGE_VERSION='4.10.0-PRE-GIT-BankHapoalim'
-PACKAGE_STRING='tcpdump 4.10.0-PRE-GIT-BankHapoalim'
+PACKAGE_VERSION='4.10.0-PRE-GIT-BankHapoalim1'
+PACKAGE_STRING='tcpdump 4.10.0-PRE-GIT-BankHapoalim1'
 PACKAGE_BUGREPORT=''
 PACKAGE_URL=''
 
